@@ -1,0 +1,2 @@
+# qmenu
+qmenu запрет
